@@ -1,4 +1,4 @@
-lista = [10,20,30,40]
+lista = [10,20,30,40,80]
 
 def soma(lista):
     soma = 0
@@ -7,4 +7,5 @@ def soma(lista):
     return soma 
 
 print(soma(lista))
+
    
