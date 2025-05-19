@@ -11,6 +11,7 @@ def palindromo(palavra):
             return True 
     return resp
 
+
 print(palindromo(palavra))
 
 

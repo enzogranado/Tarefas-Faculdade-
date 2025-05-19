@@ -1,4 +1,4 @@
 import pywhatkit as pwk 
-phone_number = "+5511942249211"
-message = "Salve, Enzo"
-pwk.sendwhatmsg(phone_number,message, 22,35)
+phone_number = "+5511982514171"
+message = "estou te observando"
+pwk.sendwhatmsg(phone_number,message, 9,24)
